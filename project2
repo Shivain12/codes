@@ -1,0 +1,15 @@
+# Program: What is Programming?
+
+def explain_programming():
+    print("What is Programming?\n")
+    print("Programming is the process of writing instructions for a computer to perform tasks.")
+    print("These instructions are written in a language the computer can understand, like Python.")
+    print("\nWith programming, you can:")
+    print("- Build websites and apps")
+    print("- Automate tasks")
+    print("- Analyze data")
+    print("- Create games and much more!")
+    print("\nIn simple terms, programming tells computers what to do!")
+
+# Run the explanation
+explain_programming()
